@@ -1,5 +1,5 @@
 # Hello, I'm Suraj Trivedi
-<a href="linkedin.com/in/suraj-trivedi-704b2211b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/suraj-trivedi-704b2211b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a MCA postgraduate with a strong interest in technology and a commitment to solving complex security challenges. I enjoy exploring how systems work and how to protect them from potential threats.
 
