@@ -1,17 +1,17 @@
 # Hello, I'm Suraj Trivedi
 <a href="linkedin.com/in/suraj-trivedi-704b2211b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a MCA postgraduate with a strong interest in technology and a commitment to solving complex security challenges. I enjoy exploring how systems work and how to protect them from potential threats.
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has inspired a deep passion for cybersecurity. I am now eager to begin my career in a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my knowledge to detect, analyze, and respond to security incidents effectively.
 
 ## Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | SOC Automation Lab|
+| Network Traffic Monitoring and Attack Detection |SOC Automation Lab |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
